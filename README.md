@@ -1,2 +1,2 @@
 # Estudo de inadimplencia
-Este código fora feito para estudar o numero de inadimplentes em uma empresa de crédito
+Este Projeto busca verificar a análise de bons e maus pagadores, assim como fazer modelos de Classifição para a nossa empresa.
